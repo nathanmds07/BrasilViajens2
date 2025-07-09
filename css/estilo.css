@@ -1,4 +1,4 @@
-* {
+{
     box-sizing: border-box;
   }
   
@@ -21,7 +21,7 @@
   
   /* Cabeçalho */
   header {
-    background-color: #68621a;
+    background-color: #000000;
     padding: 20px 10px;
     text-align: center;
     transition: background-color 0.3s ease;
